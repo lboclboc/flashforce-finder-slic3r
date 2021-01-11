@@ -1,0 +1,2 @@
+- flashforge-finder.ini is a combination of printer/ print/ and pla/
+- Slic3r plugin in FreeCAD should point to the above combined file.
